@@ -1,0 +1,38 @@
+.criar {
+    background-color: lightseagreen;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10%;
+}
+
+.container {
+    border-style: dashed;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 200px;
+    align-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+.texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
+
+.body {
+    background-image: url("fundointegrador.png");
+}
+
+.foto {
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
